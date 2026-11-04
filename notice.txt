@@ -1,0 +1,12 @@
+Nombre del Proyecto
+Copyright 2026 Biblioteca Florentino Ameghino, FCNyM-UNLP
+
+Este producto fue desarrollado por:
+  - Biblioteca Florentino Ameghino, Facultad de Ciencias Naturales y Museo
+    (FCNyM), Universidad Nacional de La Plata (UNLP)
+  - Claude.AI (Anthropic), como asistente en el desarrollo del código
+
+Este producto incluye software desarrollado por la Biblioteca Florentino
+Ameghino (FCNyM-UNLP). Licenciado bajo la Apache License, Version 2.0.
+
+www.bfa.fcnym.unlp.edu.ar
